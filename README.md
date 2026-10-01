@@ -4,7 +4,7 @@
 
 This archive follows the weekly development of a molecular-dynamics study of the [1Y26 adenine riboswitch complex](https://www.rcsb.org/structure/1Y26). The project compared RNA structural behavior across 300, 320, 340, 360, 380, and 400 K using RMSD, radius of gyration (Rg), and annotated base-pair states, with a focused 300 K versus 360 K comparison.
 
-**[Final poster](W11/poster/SURF-2025-0515-poster.pdf)** · [Editable poster](W11/poster/poster-editable.pptx) · [Final figures](W10/plots_finally_ok_again/)
+**[Final poster](W11/poster/SURF-2025-0515-poster.pdf)**
 
 [![SURF research poster](W11/poster/poster-preview.png)](W11/poster/SURF-2025-0515-poster.pdf)
 
