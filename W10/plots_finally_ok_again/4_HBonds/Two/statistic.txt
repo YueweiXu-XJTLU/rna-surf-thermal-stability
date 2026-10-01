@@ -1,0 +1,6 @@
+Frames total: 501  dt_ps ≈ 2000.0 ps
+Using t >= 600000 ps; frames kept: 201
+Mean(300K)=20.478±2.12, Mean(360K)=14.592±3.11
+Δ (300-360) = 5.886
+Welch t=36.47, df≈386.1, p=3.74e-127
+95% CI for Δ: [5.568, 6.203]

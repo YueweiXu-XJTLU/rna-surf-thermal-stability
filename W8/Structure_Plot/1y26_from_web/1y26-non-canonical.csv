@@ -1,0 +1,17 @@
+Base-pair;Interaction type;Canonical;Saenger;Leontis-Westhof;BPh;BR;Represented in dot-bracket
+X.U20 - X.U49;base - base;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A23 - X.G46;base - base;N;X;W/S trans;UNKNOWN;UNKNOWN;N
+X.U31 - X.U39;base - base;N;XVI;W/W cis;UNKNOWN;UNKNOWN;N
+X.A33 - X.A66;base - base;N;V;W/H trans;UNKNOWN;UNKNOWN;N
+X.U34 - X.G37;base - base;N;n/a;S/S cis;UNKNOWN;UNKNOWN;N
+X.U34 - X.A65;base - base;N;XXIV;W/H trans;UNKNOWN;UNKNOWN;N
+X.A35 - X.A64;base - base;N;n/a;H/H trans;UNKNOWN;UNKNOWN;N
+X.G37 - X.A65;base - base;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.G38 - X.A66;base - base;N;X;S/W trans;UNKNOWN;UNKNOWN;N
+X.U47 - X.U51;base - base;N;n/a;W/H trans;UNKNOWN;UNKNOWN;N
+X.U49 - X.A76;base - base;N;n/a;W/S cis;UNKNOWN;UNKNOWN;N
+X.C50 - X.U75;base - base;N;n/a;W/S cis;UNKNOWN;UNKNOWN;N
+X.U51 - a.a90;base - base;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.C61 - X.A65;base - base;N;n/a;S/W cis;UNKNOWN;UNKNOWN;N
+X.G37 - X.C60;base - base (1H);N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.U47 - X.A52;base - base (1H);N;n/a;n/a;UNKNOWN;UNKNOWN;N

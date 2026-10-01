@@ -1,0 +1,23 @@
+结构图
+Fig 1. Structure snapshots of the 1Y26 backbone before and after a 1,000 ps NVT + 1 μs NPT MD simulation at 300 K (top right) and 360 K (bottom right).
+
+rg折线图
+Fig 2.1. Temporal evolution of Rg for 1Y26 at 300–400 K over 1 μs. Dashed lines indicate the mean Rg for each temperature.
+
+rg箱线图
+Fig 2.2. Box-and-whisker distributions of Rg for 1Y26 at 300–400 K over 1 μs.
+
+rmsd折线图
+Fig 3.1. Fig Temporal evolution of RMSD for 1Y26 at 300 K and 360 K over 1 μs. Dashed lines indicate the mean RMSD for each temperature.
+
+rmsd箱线图
+Fig 3.2. Box-and-whisker distributions of RMSD for 1Y26 at 300–400 K over 1 μs.
+
+氢键配对状态图
+Fig 4.1. State maps for the 15 base pairs with the largest WCc frequency discrepancy for 1Y26 at 300 K and 360 K over 1 μs. Base pairs are classified as WCc, WWc, Other, or No pair.
+
+氢键折线图
+Fig 4.2. Temporal evolution of WCc base-pair counts for 1Y26 at 300–400 K over 1 μs. Dashed lines indicate the mean count for each temperature.
+
+氢键小提琴图
+Fig 4.3. Distribution pattern of WCc base-pair counts for 1Y26 at 300 K and 360 K over 0.6-1 μs. Yellow points indicate the mean values.

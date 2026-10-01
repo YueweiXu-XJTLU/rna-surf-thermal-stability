@@ -1,0 +1,6 @@
+>strand_X
+cGCUUCAUAUAAUCCUAAUGAUAUGGUUUGGGAGUUUCUACCAAGAGCCUUAAACUCUUGAUUAUGAAGUG
+((((((((((..((((((......[[.))))))[.....)]((((((]].....)))))).[)))))))))
+>strand_a
+a
+]

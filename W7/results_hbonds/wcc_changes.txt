@@ -1,0 +1,3010 @@
+Initial_WCc_count: 20
+
+# Frame 0
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 1
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 2
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 3
+WCc_count: 16
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 4
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 5
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 6
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 7
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 8
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 9
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 10
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 11
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 12
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 1
+New_WCc: 0
+
+# Frame 13
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 14
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 15
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 16
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 17
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 18
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 19
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 20
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 21
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 22
+WCc_count: 16
+WCc_to_other: 4
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 23
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 24
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 25
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 26
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 27
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 28
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 29
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 30
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 31
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 32
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 33
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 34
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 35
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 36
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 37
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 38
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 39
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 40
+WCc_count: 21
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 41
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 42
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 43
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 44
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 45
+WCc_count: 17
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 46
+WCc_count: 15
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 47
+WCc_count: 18
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 48
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 1
+New_WCc: 3
+
+# Frame 49
+WCc_count: 16
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 50
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 51
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 52
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 53
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 54
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 55
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 56
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 57
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 58
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 59
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 60
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 61
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 62
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 63
+WCc_count: 16
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 64
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 6
+
+# Frame 65
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 66
+WCc_count: 21
+WCc_to_other: 0
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 67
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 68
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 69
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 70
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 71
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 72
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 73
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 74
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 75
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 76
+WCc_count: 17
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 77
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 78
+WCc_count: 15
+WCc_to_other: 6
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 79
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 80
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 81
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 82
+WCc_count: 21
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 83
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 84
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 85
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 86
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 87
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 88
+WCc_count: 16
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 89
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 90
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 91
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 92
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 93
+WCc_count: 16
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 94
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 95
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 96
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 97
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 98
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 99
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 100
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 101
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 102
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 103
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 104
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 105
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 106
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 107
+WCc_count: 16
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 108
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 109
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 110
+WCc_count: 16
+WCc_to_other: 6
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 111
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 112
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 113
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 114
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 115
+WCc_count: 21
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 116
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 117
+WCc_count: 21
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 118
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 119
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 120
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 121
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 122
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 123
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 124
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 125
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 126
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 127
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 128
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 129
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 130
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 131
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 132
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 133
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 134
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 135
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 136
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 137
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 138
+WCc_count: 21
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 139
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 140
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 141
+WCc_count: 18
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 142
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 143
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 144
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 145
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 146
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 147
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 148
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 149
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 150
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 151
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 152
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 153
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 154
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 155
+WCc_count: 17
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 156
+WCc_count: 16
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 157
+WCc_count: 16
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 158
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 159
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 160
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 161
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 162
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 163
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 164
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 165
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 166
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 167
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 168
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 169
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 170
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 171
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 172
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 173
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 174
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 175
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 176
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 177
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 178
+WCc_count: 21
+WCc_to_other: 0
+WCc_to_No_Pair: 1
+New_WCc: 4
+
+# Frame 179
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 180
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 181
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 182
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 183
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 184
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 185
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 186
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 187
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 188
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 189
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 190
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 191
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 192
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 193
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 194
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 195
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 196
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 197
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 198
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 199
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 200
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 201
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 202
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 203
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 204
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 205
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 206
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 207
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 208
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 209
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 210
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 211
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 212
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 213
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 214
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 215
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 216
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 217
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 218
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 219
+WCc_count: 16
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 220
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 221
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 222
+WCc_count: 19
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 223
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 224
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 225
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 226
+WCc_count: 19
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 227
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 228
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 229
+WCc_count: 18
+WCc_to_other: 1
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 230
+WCc_count: 16
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 231
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 232
+WCc_count: 19
+WCc_to_other: 0
+WCc_to_No_Pair: 1
+New_WCc: 0
+
+# Frame 233
+WCc_count: 18
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 234
+WCc_count: 15
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 235
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 236
+WCc_count: 16
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 237
+WCc_count: 18
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 238
+WCc_count: 19
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 239
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 240
+WCc_count: 16
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 241
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 242
+WCc_count: 15
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 243
+WCc_count: 17
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 244
+WCc_count: 18
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 245
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 246
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 247
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 248
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 249
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 250
+WCc_count: 17
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 251
+WCc_count: 15
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 252
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 253
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 254
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 255
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 256
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 257
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 258
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 259
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 260
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 261
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 262
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 263
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 264
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 265
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 266
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 267
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 268
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 269
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 270
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 271
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 272
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 273
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 274
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 275
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 276
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 277
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 278
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 279
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 280
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 281
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 282
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 283
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 284
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 285
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 286
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 287
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 288
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 289
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 290
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 291
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 292
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 293
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 294
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 295
+WCc_count: 17
+WCc_to_other: 6
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 296
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 297
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 298
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 299
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 300
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 301
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 302
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 303
+WCc_count: 18
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 304
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 305
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 306
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 307
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 308
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 309
+WCc_count: 16
+WCc_to_other: 5
+WCc_to_No_Pair: 1
+New_WCc: 0
+
+# Frame 310
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 1
+New_WCc: 6
+
+# Frame 311
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 312
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 313
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 314
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 315
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 1
+New_WCc: 3
+
+# Frame 316
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 317
+WCc_count: 20
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 318
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 319
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 320
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 321
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 322
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 323
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 324
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 325
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 326
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 327
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 328
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 329
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 330
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 331
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 332
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 333
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 334
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 335
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 336
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 337
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 338
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 339
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 340
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 341
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 342
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 343
+WCc_count: 18
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 344
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 345
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 1
+New_WCc: 0
+
+# Frame 346
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 347
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 348
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 349
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 350
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 351
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 352
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 353
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 354
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 355
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 356
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 357
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 358
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 359
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 360
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 361
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 362
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 363
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 364
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 365
+WCc_count: 18
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 366
+WCc_count: 19
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 367
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 368
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 369
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 370
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 371
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 372
+WCc_count: 21
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 373
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 374
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 375
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 376
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 377
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 378
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 379
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 380
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 381
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 382
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 383
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 384
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 385
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 386
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 387
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 388
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 1
+New_WCc: 3
+
+# Frame 389
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 1
+New_WCc: 3
+
+# Frame 390
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 391
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 392
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 393
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 394
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 395
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 396
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 397
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 398
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 399
+WCc_count: 18
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 400
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 401
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 402
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 403
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 404
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 405
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 406
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 407
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 408
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 409
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 410
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 411
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 412
+WCc_count: 18
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 413
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 414
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 415
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 416
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 417
+WCc_count: 17
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 418
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 419
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 420
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 421
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 422
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 423
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 424
+WCc_count: 17
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 425
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 426
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 427
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 428
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 429
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 430
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 431
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 432
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 433
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 434
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 435
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 436
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 437
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 438
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 439
+WCc_count: 19
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 440
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 441
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 442
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 443
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 444
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 445
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 446
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 447
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 448
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 449
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 450
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 451
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 452
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 453
+WCc_count: 18
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 454
+WCc_count: 19
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 455
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 456
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 457
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 458
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 459
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 460
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 461
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 462
+WCc_count: 18
+WCc_to_other: 5
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 463
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 464
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 465
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 466
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 467
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 468
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 469
+WCc_count: 18
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 470
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 471
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 472
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 473
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 474
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 475
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 476
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 1
+New_WCc: 1
+
+# Frame 477
+WCc_count: 22
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 478
+WCc_count: 19
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 479
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 4
+
+# Frame 480
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 481
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 482
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 483
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 484
+WCc_count: 17
+WCc_to_other: 4
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 485
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 5
+
+# Frame 486
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 487
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 488
+WCc_count: 19
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 489
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 490
+WCc_count: 23
+WCc_to_other: 0
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 491
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 0
+
+# Frame 492
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 493
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 494
+WCc_count: 20
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 495
+WCc_count: 21
+WCc_to_other: 2
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+# Frame 496
+WCc_count: 21
+WCc_to_other: 1
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 497
+WCc_count: 22
+WCc_to_other: 1
+WCc_to_No_Pair: 0
+New_WCc: 2
+
+# Frame 498
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 1
+
+# Frame 499
+WCc_count: 20
+WCc_to_other: 1
+WCc_to_No_Pair: 1
+New_WCc: 2
+
+# Frame 500
+WCc_count: 20
+WCc_to_other: 3
+WCc_to_No_Pair: 0
+New_WCc: 3
+
+==== Summary ====
+Most significant WCc change frame: Frame 295, Change: 6

@@ -1,0 +1,21 @@
+Base-pair;Interaction type;Canonical;Saenger;Leontis-Westhof;BPh;BR;Represented in dot-bracket
+X.U16 - X.U17;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A21 - X.U22;phosphate - phosphate;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A21 - X.U47;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A24 - X.C53;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.U25 - X.C53;phosphate - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.U28 - X.A29;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A33 - X.G37;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A35 - X.U36;ribose - phosphate;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.G46 - X.U47;phosphate - phosphate;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.U47 - X.U49;ribose - phosphate;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.U49 - X.C50;ribose - phosphate;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.C50 - X.U51;phosphate - phosphate;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A55 - X.A56;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.C60 - X.C61;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.C61 - X.U62;phosphate - phosphate;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A64 - X.A65;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A65 - X.A66;ribose - phosphate;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.G78 - X.A79;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.A79 - X.A80;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N
+X.G81 - X.U82;ribose - ribose;N;n/a;n/a;UNKNOWN;UNKNOWN;N

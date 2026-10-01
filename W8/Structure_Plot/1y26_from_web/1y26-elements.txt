@@ -1,0 +1,22 @@
+Stem D1 1 9 cGCUUCAUA ((((((((( YRYYYYRYR 63 71 UAUGAAGUG ))))))))) YRYRRRRYR 
+Stem D2 13 18 UCCUAA (((((( YYYYRR 28 33 UUGGGA )))))) YYRRRR 
+Stem D3 25 26 GG [[ RR 48 49 CC ]] YY 
+Stem D4 42 47 CAAGAG (((((( YRRRRR 55 60 CUCUUG )))))) YYYYYR 
+
+Loop L1 9 10 AU (( RY 40 42 ACC )]( RYY 60 63 GAUU ).[) RRYY 
+Loop L2 10 13 UAAU (..( YRRY 33 40 AGUUUCUA )[.....) RRYYYYYR 
+Loop L3 18 25 AUGAUAUG (......[ RYRRYRYR 49 55 CUUAAAC ].....) YYYRRRY 47 48 GC (] RY 26 28 GUU [.) RYY 
+Loop L4 18 28 AUGAUAUGGUU (......[[.) RYRRYRYRRYY 
+Loop L5 47 55 GCCUUAAAC (]].....) RYYYYRRRY 
+
+Single strand SS1 10 13 UAAU (..( YRRY 
+Single strand SS2 18 25 AUGAUAUG (......[ RYRRYRYR 
+Single strand SS3 26 28 GUU [.) RYY 
+Single strand SS4 33 40 AGUUUCUA )[.....) RRYYYYYR 
+Single strand SS5 34 40 GUUUCUA [.....) RYYYYYR 
+Single strand SS6 40 42 ACC )]( RYY 
+Single strand SS7 49 55 CUUAAAC ].....) YYYRRRY 
+Single strand SS8 60 62 GAU ).[ RRY 
+Single strand SS9 60 63 GAUU ).[) RRYY 
+
+Single strand 3' SS3p 71 72 Ga )] RY 

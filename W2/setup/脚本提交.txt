@@ -1,0 +1,18 @@
+1. 赋予脚本执行权限（可选）
+d +x RNA.sh
+
+2. 使用 sbatch 命令提交作业
+sbatch RNA.sh
+执行后会返回类似：
+Submitted batch job 123456
+其中数字为你的作业ID
+
+3. 查看作业状态
+squeue -u $USER
+或
+squeue -j ID
+
+4. 查看日志
+作业运行期间/结束后，查看输出和错误日志文件（由 #SBATCH -o 和 #SBATCH -e 指定），比如：
+cat job.123456.out
+cat job.123456.err
